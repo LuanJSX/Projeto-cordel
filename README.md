@@ -1,13 +1,14 @@
-# Projeto-cordel
-Cordel Moderno é outro projeto desenvolvido para o curso "Curso em Video", ministrado pelo professor Gustavo Guanabara. Este projeto consiste em uma página web dedicada ao cordel "Cordel Moderno" do poeta Milton Duarte.
+📜 Cordel Moderno
+Cordel Moderno é um projeto desenvolvido para o curso "Curso em Vídeo", ministrado pelo professor Gustavo Guanabara. Este projeto consiste em uma página web dedicada ao cordel Cordel Moderno, do poeta Milton Duarte.
 
-Desafios Encontrados
-Neste projeto, os principais desafios incluíram a apresentação visual do cordel e a garantia de que o conteúdo fosse acessível e atrativo em diferentes dispositivos. O processo de superação desses desafios contribuiu significativamente para o meu crescimento como desenvolvedor(a).
+💡 Desafios Encontrados
+Durante o desenvolvimento, os principais desafios envolveram a apresentação visual do cordel e a garantia de que o conteúdo fosse acessível e atrativo em diferentes dispositivos. Superar essas dificuldades contribuiu significativamente para o meu crescimento como desenvolvedor(a), ampliando minha experiência com design responsivo e usabilidade.
 
-Tecnologias Usadas
-As tecnologias usadas para criar o Cordel Moderno foram:
+🛠️ Tecnologias Usadas
+As tecnologias utilizadas para criar o Cordel Moderno foram:
 
 HTML
+
 CSS
 
-Essas ferramentas foram essenciais para o desenvolvimento da página, assegurando uma apresentação clara e responsiva do conteúdo poético.
+Essas ferramentas foram essenciais para o desenvolvimento da página, permitindo uma apresentação clara, agradável e responsiva do conteúdo poético.
